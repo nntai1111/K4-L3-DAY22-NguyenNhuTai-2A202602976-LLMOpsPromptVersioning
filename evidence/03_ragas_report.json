@@ -1,0 +1,15 @@
+{
+  "prompt_v1_scores": {
+    "faithfulness": 0.9576341991341991,
+    "answer_relevancy": 0.9137316418882655,
+    "context_recall": 1.0,
+    "context_precision": 0.9449999999285833
+  },
+  "prompt_v2_scores": {
+    "faithfulness": 0.8317383172383174,
+    "answer_relevancy": 0.8802762539753287,
+    "context_recall": 1.0,
+    "context_precision": 0.9449999999259169
+  },
+  "target_met": true
+}
